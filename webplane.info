@@ -1,0 +1,36 @@
+name = Webplane
+description = Mindscape Webplane starter profile. 
+version = VERSION
+core = 7.x
+
+;Core modules
+dependencies[] = aggregator
+dependencies[] = block
+dependencies[] = blog
+dependencies[] = dblog
+dependencies[] = book
+dependencies[] = comment
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = forum
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = poll
+dependencies[] = search
+dependencies[] = statistics 
+dependencies[] = shortcut
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = tracker
+dependencies[] = trigger
+dependencies[] = update
+dependencies[] = user
+ 
+
